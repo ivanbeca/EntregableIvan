@@ -6,6 +6,7 @@ body {
     margin: 0;
     padding: 0;
     
+   
 }
 img {
     width: 300px;
@@ -17,9 +18,10 @@ header {
     background-color: #42a5f5;
     color: white;
     padding: 20px;
-
+   
     
 }
+
 
 footer {
     background-color: #1e88e5;
